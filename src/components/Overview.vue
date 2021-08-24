@@ -1,15 +1,13 @@
 <template>
-  <top-bar />
+  <div>
+    Overview
+  </div>
 </template>
 
 <script>
 import { defineComponent } from 'vue';
-import TopBar from '../components/TopBar.vue'
 
 export default defineComponent({
-  name: 'Index',
-  components: {
-    TopBar
-  }
+  name: 'Overview'
 })
 </script>
