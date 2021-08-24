@@ -1,4 +1,4 @@
-# Quasar App (to-do-list)
+# Quasar App (landing-page)
 
 A Quasar Framework app
 
