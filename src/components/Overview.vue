@@ -11,13 +11,13 @@
           BEXIL  COMPUTER  &  SOLUTION  LIMITED  provides  one  stop solution for your general ICT (Information and Communication Technology) services. We have different products and services to meet your requirements, depending on the size and field of your organization. We provide the optimum and customized solutions made for your organization. 
         </p>
         <div class="tw-mx-3 sm:tw-mx-0">
-          <q-btn icon="email" class="sm:tw-py-2 sm:tw-px-3 tw-py-1 tw-px-2 tw-bg-green-500 hover:tw-bg-green-400 hover:tw-text-gray-200 tw-text-white tw-text-lg tw-rounded-full tw-w-full sm:tw-w-64 tw-text-center tw-mt-6">
+          <q-btn icon="email" class="sm:tw-py-2 sm:tw-px-3 tw-py-1 tw-px-2 tw-bg-green-500 hover:tw-bg-green-400 hover:tw-text-gray-200 tw-text-white tw-text-lg tw-rounded-full tw-w-full md:tw-w-64 tw-text-center tw-mt-6">
             <a class="tw-ml-2 tw-text-xs lg:tw-text-base" href="mailto:bexilcomputer@gmail.com">Get in touch</a>
           </q-btn>
         </div>
       </div>
-      <div class="sm:tw-mx-auto tw-mx-4">
-        <div class="tw-mt-4">
+      <div class="sm:tw-mx-auto tw-mx-2">
+        <div class="tw-mt-6">
           <img class="tw-object-cover tw-shadow-xl tw-w-full sm:tw-w-44 tw-mx-auto hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/pexels-shvets-production-7194915.jpg" alt="">
           <div class="tw-text-center tw-text-white tw-font-serif tw-text-lg">
             C.E.O
@@ -36,7 +36,7 @@
               Dahir. M. Dahir
             </div>
           </div>
-          <div class="sm:tw-ml-10">
+          <div class="sm:tw-ml-10 tw-mt-4 sm:tw-mt-0">
             <img class="tw-object-cover tw-shadow-xl tw-w-full sm:tw-w-44 tw-mx-auto hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/pexels-shvets-production-7194915.jpg" alt="">
             <div class="tw-text-center tw-text-white tw-font-serif tw-text-lg">
               ***
