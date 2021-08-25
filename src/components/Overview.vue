@@ -14,9 +14,6 @@
           <q-btn icon="email" class="sm:tw-py-2 sm:tw-px-3 tw-py-1 tw-px-2 tw-bg-green-500 hover:tw-bg-green-400 hover:tw-text-gray-200 tw-text-white tw-text-lg tw-rounded-full tw-w-full sm:tw-w-64 tw-text-center tw-mt-6">
             <a class="tw-ml-2 tw-text-xs lg:tw-text-base" href="mailto:bexilcomputer@gmail.com">Get in touch</a>
           </q-btn>
-          <!-- <div class="sm:tw-py-2 sm:tw-px-3 tw-py-1 tw-px-2 sm:tw-mx-28 tw-bg-green-500 hover:tw-bg-green-400 hover:tw-text-gray-200 tw-text-white tw-text-lg tw-rounded-full tw-w-full sm:tw-w-44 tw-text-center tw-mt-6">
-            <q-btn dense flat rounded icon="email"></q-btn><a class="tw-ml-2 tw-text-xs lg:tw-text-base" href="mailto:bexilcomputer@gmail.com">Get in touch</a>
-          </div> -->
         </div>
       </div>
       <div class="sm:tw-mx-auto tw-mx-4">
@@ -60,7 +57,7 @@
       <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono">
         Software Development
       </div>
-      <div class="tw-text-sm tw-text-white tw-font-mono">
+      <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Est enim error voluptas tempore! Natus eaque repudiandae cupiditate ut dignissimos animi dolorem excepturi magni soluta 
       </div>
     </div>
@@ -68,7 +65,7 @@
       <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono tw-mt-8 sm:tw-mt-0">
         Facial Recognition Integration
       </div>
-      <div class="tw-text-sm tw-text-white tw-font-mono">
+      <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Est enim error voluptas tempore! Natus eaque repudiandae cupiditate ut dignissimos animi dolorem excepturi magni soluta 
       </div>
     </div>
@@ -76,7 +73,7 @@
       <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono tw-mt-16 sm:tw-mt-0">
         Secure-NG
       </div>
-      <div class="tw-text-sm tw-text-white tw-font-mono">
+      <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Est enim error voluptas tempore! Natus eaque repudiandae cupiditate ut dignissimos animi dolorem excepturi magni soluta 
       </div>
     </div>
@@ -86,7 +83,7 @@
       <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono tw-mt-4">
         Transport Manifest
       </div>
-      <div class="tw-text-sm tw-text-white tw-font-mono">
+      <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Est enim error voluptas tempore! Natus eaque repudiandae cupiditate ut dignissimos animi dolorem excepturi magni soluta 
       </div>
     </div>
@@ -94,7 +91,7 @@
       <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono tw-mt-4">
         Data Optimisation
       </div>
-      <div class="tw-text-sm tw-text-white tw-font-mono">
+      <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Est enim error voluptas tempore! Natus eaque repudiandae cupiditate ut dignissimos animi dolorem excepturi magni soluta 
       </div>
     </div>
@@ -102,7 +99,7 @@
       <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono tw-mt-4">
         CCTV Installation and Management
       </div>
-      <div class="tw-text-sm tw-text-white tw-font-mono">
+      <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Est enim error voluptas tempore! Natus eaque repudiandae cupiditate ut dignissimos animi dolorem excepturi magni soluta 
       </div>
     </div>
