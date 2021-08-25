@@ -47,19 +47,24 @@
           Contact Us
         </div>
         <div class="tw-text-sm tw-mt-3 tw-text-white tw-font-mono tw-font-thin">
-          <q-btn dense flat rounded icon="phone"></q-btn>  + 23480 2915 1377
-          <q-separator class="tw-w-40" />
-          <q-btn dense flat rounded icon="phone"></q-btn>  + 23490 2335 6064
-          <q-separator class="tw-w-40" />
-          <q-btn dense flat rounded icon="phone"></q-btn>  + 23480 6714 0502
-          <q-separator class="tw-w-40" />
-          <q-btn dense flat rounded icon="email"></q-btn><a class="tw-ml-2 tw-text-xs lg:tw-text-base" href="mailto:bexilcomputer@gmail.com">bexilcomputer@gmail.com</a>
+          <q-icon name="phone"></q-icon>  + 23480 2915 1377
+          <q-separator class="tw-w-40 tw-bg-gray-600" />
+          <q-icon name="phone"></q-icon>  + 23490 2335 6064
+          <q-separator class="tw-w-40 tw-bg-gray-600" />
+          <q-icon name="phone"></q-icon>  + 23480 6714 0502
+          <q-separator class="tw-w-40 tw-bg-gray-600" />
+          <q-icon name="language"></q-icon>    <a href="http://www.secureng.com">www.secureng.com</a>
+          <q-separator class="tw-w-40 tw-bg-gray-600" />
+          <q-icon name="email"></q-icon><a class="tw-ml-2 tw-text-xs lg:tw-text-base" href="mailto:bexilcomputer@gmail.com">bexilcomputer@gmail.com</a>
+          <q-separator class="tw-w-40 tw-bg-gray-600" />
+          <q-icon name="place"></q-icon>  No. 74 Maidala Plaza, Magaram Road Gidan Madara. Maiduguri, Borno State, Nigeria.
+          <q-separator class="tw-w-40 tw-bg-gray-600" />
         </div>
       </div>      
     </div>
-    <q-separator class="tw-mx-6 md:tw-mx-20 tw-mb-10" />
+    <q-separator class="tw-mx-6 md:tw-mx-20 tw-mb-10 tw-bg-gray-600" />
     <div class="tw-flex tw-text-lg tw-text-white tw-justify-center">
-      <q-btn flat dense size="xs" class="tw-mt-1" icon="copyright"></q-btn>
+      <q-icon class="tw-mt-1" name="copyright"></q-icon>
       <p class="tw-text-sm md:tw-text-base">{{ year }} Bexil. All rights reserved.</p>
     </div>
     <div class="tw-mt-4 md:tw-mt-7 tw-text-gray-50">.</div>

@@ -1,7 +1,7 @@
 <template>
   <div class="tw-flex tw-justify-between tw-mx-5 sm:tw-mx-10 md:tw-mx-28 tw-mt-5 sm:tw-mt-12 md:tw-mt-16">
     <div class="flex tw-justify-start tw--mt-4">
-      <div class="tw-text-xl tw-mt-6 sm:tw-mt-2 sm:tw-text-2xl tw-cursor-pointer tw-uppercase tw-text-white hover:tw-text-white">
+      <div class="tw-text-xl tw-mt-6 sm:tw-mt-2 sm:tw-text-2xl tw-cursor-pointer tw-uppercase tw-text-green-400 hover:tw-text-green-500">
         <router-link to="/">
           bexils
         </router-link>
