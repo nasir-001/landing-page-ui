@@ -9,7 +9,7 @@
     </div>
     <div class="tw-flex tw-justify-start md:tw--mt-6">
       <div class="tw-bg-green-400 tw-rounded md:tw-h-12 tw-h-10 tw-w-10 md:tw-w-12"></div>
-      <div class="tw-bg-green-400 tw-rounded md:tw-h-12 tw-h-10 tw-w-10 md:tw-w-12 tw-mt-3 md:tw-mt-4 tw-text-gray-900 tw-font-serif tw--ml-5 md:tw--ml-4 tw-text-base md:tw-text-lg">B</div>
+      <div class="tw-bg-green-400 tw-rounded md:tw-h-12 tw-h-10 tw-w-10 md:tw-w-12 tw-mt-3 md:tw-mt-4 tw-text-gray-900 tw-font-serif tw--ml-5 md:tw--ml-4 tw-text-base md:tw-text-2xl">B</div>
     </div>
   </div>
 </template>
