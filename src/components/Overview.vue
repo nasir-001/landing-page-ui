@@ -18,7 +18,7 @@
       </div>
       <div class="sm:tw-mx-auto tw-mx-2">
         <div class="tw-mt-6">
-          <img class="tw-object-cover tw-shadow-xl tw-w-full sm:tw-w-44 tw-mx-auto tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG-0565.JPG" alt="">
+          <img class="tw-object-cover tw-shadow-xl tw-w-full sm:tw-w-44 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG-0565.JPG" alt="">
           <div class="tw-text-center tw-text-white tw-font-serif tw-text-lg">
             C.E.O
           </div>
@@ -28,7 +28,7 @@
         </div>
         <div class="sm:tw-flex sm:tw-flex-wrap tw-justify-start tw-mt-4">
           <div class="sm:tw-mr-10">
-            <img class="tw-object-cover tw-shadow-xl tw-w-full sm:tw-w-44 tw-mx-auto tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG-1912.jpg" alt="">
+            <img class="tw-object-cover tw-shadow-xl tw-w-full sm:tw-w-44 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG-1912.jpg" alt="">
             <div class="tw-text-center tw-text-white tw-font-serif tw-text-lg">
               C.T.O
             </div>
@@ -37,7 +37,7 @@
             </div>
           </div>
           <div class="sm:tw-ml-10 tw-mt-4 sm:tw-mt-0">
-            <img class="tw-object-cover tw-shadow-xl tw-w-full sm:tw-w-44 tw-mx-auto tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG_0035.jpg" alt="">
+            <img class="tw-object-cover tw-shadow-xl tw-w-full sm:tw-w-44 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG_0035.jpg" alt="">
             <div class="tw-text-center tw-text-white tw-font-serif tw-text-lg">
               C.O.O
             </div>
