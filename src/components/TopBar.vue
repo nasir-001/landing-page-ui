@@ -3,7 +3,7 @@
     <div class="flex tw-justify-start tw--mt-4">
       <div class="tw-text-xl tw-mt-6 sm:tw-mt-2 sm:tw-text-2xl md:tw-text-4xl tw-font-serif tw-cursor-pointer tw-uppercase tw-text-green-400 hover:tw-text-green-500">
         <router-link to="/">
-          bexils
+          bexil
         </router-link>
       </div>
     </div>

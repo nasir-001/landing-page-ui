@@ -2,7 +2,7 @@
   <div class="md:tw-w-5/6 tw-mx-auto tw-mt-10 md:tw-mt-20">
     <div class="tw-flex tw-flex-wrap tw-justify-between">
       <div class="tw-uppercase tw-mx-2 md:tw-mx-0 lg:tw-w-3/6 tw-text-white md:tw-tracking-wide tw-font-serif md:tw-text-center lg:tw-text-left tw-text-2xl sm:tw-text-3xl md:tw-text-5xl">
-        bexil's computer
+        bexil computer
         <br />
         <div class="tw-font-thin tw-mt-2 tw-text-3xl tw-tracking-wider sm:tw-text-4xl md:tw-text-5xl tw-font-sans tw-text-green-400">
           & solutions LTD
@@ -18,7 +18,7 @@
       </div>
       <div class="sm:tw-mx-auto tw-mx-2">
         <div class="tw-mt-6">
-          <img class="tw-object-cover tw-shadow-xl tw-w-full sm:tw-w-44 tw-mx-auto hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/pexels-shvets-production-7194915.jpg" alt="">
+          <img class="tw-object-cover tw-shadow-xl tw-w-full sm:tw-w-44 tw-mx-auto tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG-0565.JPG" alt="">
           <div class="tw-text-center tw-text-white tw-font-serif tw-text-lg">
             C.E.O
           </div>
@@ -28,7 +28,7 @@
         </div>
         <div class="sm:tw-flex sm:tw-flex-wrap tw-justify-start tw-mt-4">
           <div class="sm:tw-mr-10">
-            <img class="tw-object-cover tw-shadow-xl tw-w-full sm:tw-w-44 tw-mx-auto hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/pexels-shvets-production-7194915.jpg" alt="">
+            <img class="tw-object-cover tw-shadow-xl tw-w-full sm:tw-w-44 tw-mx-auto tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG-1912.jpg" alt="">
             <div class="tw-text-center tw-text-white tw-font-serif tw-text-lg">
               C.T.O
             </div>
@@ -37,9 +37,9 @@
             </div>
           </div>
           <div class="sm:tw-ml-10 tw-mt-4 sm:tw-mt-0">
-            <img class="tw-object-cover tw-shadow-xl tw-w-full sm:tw-w-44 tw-mx-auto hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/pexels-shvets-production-7194915.jpg" alt="">
+            <img class="tw-object-cover tw-shadow-xl tw-w-full sm:tw-w-44 tw-mx-auto tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG_0035.jpg" alt="">
             <div class="tw-text-center tw-text-white tw-font-serif tw-text-lg">
-              ***
+              C.O.O
             </div>
             <div class="tw-text-center tw-text-white tw-font-sans tw--mt-2 tw-text-lg">
               Ahmad Danladi
@@ -58,7 +58,11 @@
         Software Development
       </div>
       <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Est enim error voluptas tempore! Natus eaque repudiandae cupiditate ut dignissimos animi dolorem excepturi magni soluta 
+        Software Development, or Computer Software Developer, is responsible 
+        for using our knowledge of programming languages to design software programs. 
+        our duties include meeting with clients to determine their software needs, 
+        coding and testing software to ensure functionality and updating software 
+        programs to refine components like cybersecurity measures and data storage capacities.
       </div>
     </div>
     <div class="sm:tw-w-1/2 tw-w-full md:tw-w-1/3 tw-rounded-full tw-h-32">
@@ -66,7 +70,10 @@
         Facial Recognition Integration
       </div>
       <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Est enim error voluptas tempore! Natus eaque repudiandae cupiditate ut dignissimos animi dolorem excepturi magni soluta 
+        Facial recognition software is primarily used as a protective security 
+        measure and for verifying personnel activities, such as attendance, 
+        computer access or traffic in secure work environments. Facial recognition 
+        software is also known as a facial recognition system or face recognition software.
       </div>
     </div>
     <div class="sm:tw-w-1/2 tw-w-full md:tw-w-1/3 tw-rounded-full tw-h-32">
@@ -74,17 +81,24 @@
         Secure-NG
       </div>
       <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Est enim error voluptas tempore! Natus eaque repudiandae cupiditate ut dignissimos animi dolorem excepturi magni soluta 
+        Tricycle tax Collections System that offers features, rich user-interfaces 
+        with intuitive tools to manage collectors accounts simply. in this system, we provide 
+        a tricycle tax collections Let our tax billing and collections software system 
+        automate and streamline your operations.
       </div>
     </div>
   </div>
-  <div class="tw-flex tw-flex-wrap tw-mx-4 sm:tw-mx-20 tw-justify-start tw-mt-8 sm:tw-mt-0">
+  <div class="tw-flex tw-flex-wrap tw-mx-4 sm:tw-mx-20 tw-justify-start tw-mt-8">
     <div class="sm:tw-w-1/2 tw-w-full md:tw-w-1/3 tw-rounded-full tw-h-32 tw-mt-8">
       <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono tw-mt-4">
         Transport Manifest
       </div>
       <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Est enim error voluptas tempore! Natus eaque repudiandae cupiditate ut dignissimos animi dolorem excepturi magni soluta 
+        A manifest lists the imformation of the passengers, the drivers and the 
+        vehicle as well the trip information, including the passengers/drivers
+        Address, Next of Kin. Transport Manifet uses NIN to pull information of
+        passengers/drivers and save it to our database in other to keep their trip sync 
+        at all time.
       </div>
     </div>
     <div class="sm:tw-w-1/2 tw-w-full md:tw-w-1/3 tw-rounded-full tw-h-32 tw-mt-8">
@@ -92,7 +106,11 @@
         Data Optimisation
       </div>
       <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Est enim error voluptas tempore! Natus eaque repudiandae cupiditate ut dignissimos animi dolorem excepturi magni soluta 
+        Data Optimization is a process that prepares the logical schema from the 
+        data view schema. It is the counterpart of data de-optimization.  
+        It is an important aspect in database management in particular 
+        and in data warehouse management in general. Data optimizations is most commonly 
+        known to be a non-specific technique used by several applications in fetching data.
       </div>
     </div>
     <div class="sm:tw-w-1/2 tw-w-full md:tw-w-1/3 tw-rounded-full tw-h-32 tw-mt-8">
@@ -100,7 +118,11 @@
         CCTV Installation and Management
       </div>
       <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Est enim error voluptas tempore! Natus eaque repudiandae cupiditate ut dignissimos animi dolorem excepturi magni soluta 
+        CCTV, or closed-circuit television, is a system that allows you to keep 
+        an eye on what’s going on in and around your business. Cameras and monitors 
+        enable you to view events live, and recorders archive footage for later reference. 
+        Don’t mistake a CCTV monitor for an ordinary television. It doesn’t receive publicly 
+        broadcasted content—only footage from security cameras installed on the premises.
       </div>
     </div>
   </div>

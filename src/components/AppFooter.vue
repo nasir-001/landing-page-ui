@@ -3,7 +3,7 @@
     <div class="tw-flex tw-flex-wrap tw-justify-between sm:tw-justify-start md:tw-justify-between tw-mb-10 tw-mx-2 xl:tw-mx-20">
       <div class="tw-mt-10 sm:tw-w-1/2 md:tw-w-1/3">
         <div class="tw-text-2xl sm:tw-text-3xl md:tw-text-4xl tw-text-green-400 tw-cursor-pointer hover:tw-text-green-500 tw-font-mono">
-          Bexil's
+          Bexil
         </div>
         <div class="tw-text-xs sm:tw-text-sm tw-mr-4 tw-mt-3 tw-tracking-widest tw-text-white tw-font-mono tw-font-thin">
           BEXIL COMPUTER & SOLUTION LIMITED is a duly registered limited liability company with registration number RC: 1299607. BEXIL COMPUTER & SOLUTION LIMITED has distinguished itself in the delivery of general ICT services, which includes Web design,  ICT  consultancy,  Training,  Computer  Networking, Computer repairs and supply, software development, graphic design and prints, security enhancement gadgets installations, CCTV cameras installations and lots more.
