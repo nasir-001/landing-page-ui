@@ -1,6 +1,6 @@
 <template>
   <div class="md:tw-w-5/6 tw-mx-auto tw-mt-10 md:tw-mt-20">
-    <div class="tw-flex tw-flex-wrap tw-justify-between">
+    <div class="tw-flex tw-flex-wrap tw-justify-between tw-mx-8 ">
       <div class="tw-uppercase tw-mx-2 md:tw-mx-0 lg:tw-w-3/6 tw-text-white md:tw-tracking-wide tw-font-serif md:tw-text-center lg:tw-text-left tw-text-2xl sm:tw-text-3xl md:tw-text-5xl">
         bexil computer
         <br />
@@ -16,9 +16,9 @@
           </q-btn>
         </div>
       </div>
-      <div class="sm:tw-mx-auto tw-mx-2">
+      <div class="tw-mx-auto">
         <div class="tw-mt-6">
-          <img class="tw-object-cover tw-shadow-xl tw-w-full sm:tw-w-44 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG-0565.JPG" alt="">
+          <img class="tw-object-cover tw-shadow-xl tw-w-72 sm:tw-w-56 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG-0565.JPG" alt="">
           <div class="tw-text-center tw-text-white tw-font-serif tw-text-lg">
             C.E.O
           </div>
@@ -26,9 +26,9 @@
             Yusuf Hayatuddeen
           </div>
         </div>
-        <div class="sm:tw-flex sm:tw-flex-wrap tw-justify-start tw-mt-4">
+        <div class="sm:tw-flex sm:tw-flex-wrap tw-mx-auto tw-justify-start tw-mt-4">
           <div class="sm:tw-mr-10">
-            <img class="tw-object-cover tw-shadow-xl tw-w-full sm:tw-w-44 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG-1912.jpg" alt="">
+            <img class="tw-object-cover tw-shadow-xl tw-w-72 sm:tw-w-56 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG-1912_33.jpg" alt="">
             <div class="tw-text-center tw-text-white tw-font-serif tw-text-lg">
               C.T.O
             </div>
@@ -37,7 +37,7 @@
             </div>
           </div>
           <div class="sm:tw-ml-10 tw-mt-4 sm:tw-mt-0">
-            <img class="tw-object-cover tw-shadow-xl tw-w-full sm:tw-w-44 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG_0035.jpg" alt="">
+            <img class="tw-object-cover tw-shadow-xl tw-w-72 sm:tw-w-56 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG_0035.jpg" alt="">
             <div class="tw-text-center tw-text-white tw-font-serif tw-text-lg">
               C.O.O
             </div>
@@ -53,7 +53,7 @@
     <span class="">our tested</span> <span class="tw-not-italic tw-text-green-400 tw-font-thin">and</span> <span>trusted</span> <br /> services
   </div>
   <div class="tw-flex tw-flex-wrap tw-mx-4 sm:tw-mx-20 tw-justify-start tw-mt-8">
-    <div class="sm:tw-w-1/2 tw-w-full md:tw-w-1/3 tw-rounded-full tw-h-32">
+    <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full">
       <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono">
         Software Development
       </div>
@@ -65,7 +65,7 @@
         programs to refine components like cybersecurity measures and data storage capacities.
       </div>
     </div>
-    <div class="sm:tw-w-1/2 tw-w-full md:tw-w-1/3 tw-rounded-full tw-h-32">
+    <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full">
       <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono tw-mt-8 sm:tw-mt-0">
         Facial Recognition Integration
       </div>
@@ -76,7 +76,7 @@
         software is also known as a facial recognition system or face recognition software.
       </div>
     </div>
-    <div class="sm:tw-w-1/2 tw-w-full md:tw-w-1/3 tw-rounded-full tw-h-32">
+    <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full">
       <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono tw-mt-16 sm:tw-mt-0">
         Secure-NG
       </div>
@@ -89,7 +89,7 @@
     </div>
   </div>
   <div class="tw-flex tw-flex-wrap tw-mx-4 sm:tw-mx-20 tw-justify-start tw-mt-8">
-    <div class="sm:tw-w-1/2 tw-w-full md:tw-w-1/3 tw-rounded-full tw-h-32 tw-mt-8">
+    <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full tw-mt-8">
       <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono tw-mt-4">
         Transport Manifest
       </div>
@@ -101,7 +101,7 @@
         at all time.
       </div>
     </div>
-    <div class="sm:tw-w-1/2 tw-w-full md:tw-w-1/3 tw-rounded-full tw-h-32 tw-mt-8">
+    <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full tw-mt-8">
       <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono tw-mt-4">
         Data Optimisation
       </div>
@@ -113,7 +113,7 @@
         known to be a non-specific technique used by several applications in fetching data.
       </div>
     </div>
-    <div class="sm:tw-w-1/2 tw-w-full md:tw-w-1/3 tw-rounded-full tw-h-32 tw-mt-8">
+    <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full tw-mt-8">
       <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono tw-mt-4">
         CCTV Installation and Management
       </div>
