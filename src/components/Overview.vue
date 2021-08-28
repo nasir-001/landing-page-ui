@@ -65,7 +65,7 @@
         programs to refine components like cybersecurity measures and data storage capacities.
       </div>
     </div>
-    <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full tw-mt-2">
+    <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full">
       <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono">
         Facial Recognition Integration
       </div>
@@ -76,7 +76,7 @@
         software is also known as a facial recognition system or face recognition software.
       </div>
     </div>
-    <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full tw-mt-2">
+    <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full">
       <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono">
         Secure-NG
       </div>
