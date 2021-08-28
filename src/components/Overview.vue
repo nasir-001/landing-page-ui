@@ -1,6 +1,6 @@
 <template>
   <div class="md:tw-w-5/6 tw-mx-auto tw-mt-10 md:tw-mt-20">
-    <div class="tw-flex tw-flex-wrap tw-justify-between tw-mx-8 ">
+    <div class="tw-flex tw-flex-wrap tw-justify-between sm:tw-mx-8 tw-mx-4">
       <div class="tw-uppercase tw-mx-2 md:tw-mx-0 lg:tw-w-3/6 tw-text-white md:tw-tracking-wide tw-font-serif md:tw-text-center lg:tw-text-left tw-text-2xl sm:tw-text-3xl md:tw-text-5xl">
         bexil computer
         <br />
@@ -49,7 +49,7 @@
       </div>
     </div>
   </div>
-  <div class="tw-mx-auto tw-italic tw-text-center tw-mt-10 tw-text-white tw-text-4xl">
+  <div class="sm:tw-mx-auto tw-italic tw-text-center tw-mt-10 tw--mx-4 tw-text-white tw-text-4xl">
     <span class="">our tested</span> <span class="tw-not-italic tw-text-green-400 tw-font-thin">and</span> <span>trusted</span> <br /> services
   </div>
   <div class="tw-flex tw-flex-wrap tw-mx-4 sm:tw-mx-20 tw-justify-start tw-mt-8">
@@ -65,8 +65,8 @@
         programs to refine components like cybersecurity measures and data storage capacities.
       </div>
     </div>
-    <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full">
-      <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono tw-mt-8 sm:tw-mt-0">
+    <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full tw-mt-2">
+      <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono">
         Facial Recognition Integration
       </div>
       <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
@@ -76,21 +76,22 @@
         software is also known as a facial recognition system or face recognition software.
       </div>
     </div>
-    <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full">
-      <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono tw-mt-16 sm:tw-mt-0">
+    <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full tw-mt-2">
+      <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono">
         Secure-NG
       </div>
       <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
         Tricycle tax Collections System that offers features, rich user-interfaces 
-        with intuitive tools to manage collectors accounts simply. in this system, we provide 
+        with intuitive tools to manage tax
+         collectors accounts simply. in this system, we provide 
         a tricycle tax collections Let our tax billing and collections software system 
         automate and streamline your operations.
       </div>
     </div>
   </div>
-  <div class="tw-flex tw-flex-wrap tw-mx-4 sm:tw-mx-20 tw-justify-start tw-mt-8">
-    <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full tw-mt-8">
-      <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono tw-mt-4">
+  <div class="tw-flex tw-flex-wrap tw-mx-4 sm:tw-mx-20 tw-justify-start tw-mt-2">
+    <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full">
+      <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono">
         Transport Manifest
       </div>
       <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
@@ -101,8 +102,8 @@
         at all time.
       </div>
     </div>
-    <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full tw-mt-8">
-      <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono tw-mt-4">
+    <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full">
+      <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono">
         Data Optimisation
       </div>
       <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
@@ -113,8 +114,8 @@
         known to be a non-specific technique used by several applications in fetching data.
       </div>
     </div>
-    <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full tw-mt-8">
-      <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono tw-mt-4">
+    <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full">
+      <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono">
         CCTV Installation and Management
       </div>
       <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">

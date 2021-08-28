@@ -1,6 +1,6 @@
 <template>
   <div class="tw-bg-gray-800 tw-shadow-2xl tw-mt-32 sm:tw-mt-60">
-    <div class="tw-flex tw-flex-wrap tw-justify-between sm:tw-justify-start md:tw-justify-between tw-mb-10 tw-mx-2 xl:tw-mx-20">
+    <div class="tw-flex tw-flex-wrap tw-ml-4 sm:tw-ml-0 tw-justify-between sm:tw-justify-start md:tw-justify-between tw-mb-10 tw-mx-2 xl:tw-mx-20">
       <div class="tw-mt-10 sm:tw-w-1/2 md:tw-w-1/3">
         <div class="tw-text-2xl sm:tw-text-3xl md:tw-text-4xl tw-text-green-400 tw-cursor-pointer hover:tw-text-green-500 tw-font-mono">
           Bexil
