@@ -49,6 +49,14 @@
       </div>
     </div>
   </div>
+  <div class="tw-flex tw-flex-wrap tw-mt-24 tw-mb-4">
+    <div class="tw-w-1/2">
+      <img class="tw-object-cover tw-shadow-xl tw-w-72 sm:tw-w-96 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-96 hover:tw-shadow-2xl tw-rounded-full tw-overflow-hidden" src="/img/pexels-drew-williams-3568520.jpg" alt="">
+    </div>
+    <div class="tw-uppercase tw-mx-2 md:tw-mx-0 lg:tw-w-1/2 tw-text-white md:tw-tracking-wide tw-font-serif md:tw-text-center lg:tw-text-left tw-text-2xl sm:tw-text-3xl md:tw-text-5xl">
+      Bexil computer & solutions
+    </div>
+  </div>
   <div class="sm:tw-mx-auto tw-italic tw-text-center tw-mt-10 tw--mx-4 tw-text-white tw-text-4xl">
     <span class="">our tested</span> <span class="tw-not-italic tw-text-green-400 tw-font-thin">and</span> <span>trusted</span> <br /> services
   </div>
