@@ -9,7 +9,6 @@ import { defineComponent } from 'vue';
 import TopBar from '../components/TopBar.vue';
 import Overview from '../components/Overview';
 import AppFooter from '../components/AppFooter';
-import Projects from '../components/Projects';
 
 export default defineComponent({
   name: 'Index',

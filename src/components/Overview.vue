@@ -49,36 +49,20 @@
       </div>
     </div>
   </div>
-  <div class="tw-flex tw-flex-wrap tw-mt-16 tw-mb-4 tw-mx-24">
-    <div class="tw-w-1/2">
-      <img class="tw-object-cover tw-w-72 sm:tw-w-96 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-96 tw-shadow-inner tw-rounded-full tw-overflow-hidden" src="/img/pexels-drew-williams-3568520.jpg" alt="">
+  <div class="sm:tw-flex sm:tw-flex-wrap tw-mt-16 tw-mb-4 xl:tw-mx-24">
+    <div class="sm:tw-w-1/2 tw-mx-3 sm:tw-mx-0">
+      <img class="tw-object-cover tw-mx-auto sm:tw-w-96 hover:tw-opacity-75 tw-opacity-100 tw-h-80 tw-w-full sm:tw-h-96 tw-shadow-inner tw-rounded-2xl sm:tw-rounded-full tw-overflow-hidden" src="/img/pexels-drew-williams-3568520.jpg" alt="">
     </div>
-    <div class="tw-uppercase tw-mx-2 md:tw-mx-0 lg:tw-w-1/2 tw-text-green-400 md:tw-tracking-wide tw-font-serif md:tw-text-center lg:tw-text-left tw-text-2xl sm:tw-text-3xl md:tw-text-5xl">
+    <div class="tw-uppercase tw-mx-2 tw-mt-3 sm:tw-mt-0 md:tw-mx-0 tw-w-1/2 tw-text-green-400 md:tw-tracking-wide tw-font-serif md:tw-text-center lg:tw-text-left tw-text-2xl sm:tw-text-3xl md:tw-text-5xl">
       Learn about our <br /> services and billing
-      <p class="md:tw-text-lg tw-mr-2 tw-justify-evenly tw-text-sm tw-text-white tw-tracking-normal tw-font-thin tw-ml-1 tw-mt-8 tw-font-mono">
+      <p class="md:tw-text-lg tw-mr-2 tw-justify-evenly tw-text-sm tw-text-white tw-tracking-normal tw-font-thin tw-ml-1 sm:tw-mt-4 tw-font-mono">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, inventore perferendis. Minus commodi obcaecati assumenda, perspiciatis, officiis explicabo ut aperiam rerum delectus facilis odit dicta, veritatis mollitia labore! Repudiandae, dolor?
       </p>
-      <div class="tw-flex tw-justify-start tw-mt-5">
-        <q-btn outline color="positive" class="tw-py-3 tw-rounded-lg tw-px-5" icon="mail">
+      <div class="tw-flex tw-justify-start tw-mt-3 sm:tw-mt-5">
+        <q-btn outline color="positive" class="sm:tw-py-3 tw-py-2 tw-rounded-lg tw-px-5" icon="mail">
           <a class="tw-ml-2 tw-text-xs tw-pt-0.5 lg:tw-text-sm" href="mailto:bexilcomputer@gmail.com">contact us</a>
         </q-btn>
       </div>
-    </div>
-  </div>
-  <div class="tw-flex tw-flex-wrap tw-mt-16 tw-mb-4 tw-mx-24">
-    <div class="tw-uppercase tw-mx-2 md:tw-mx-0 lg:tw-w-1/2 tw-text-green-400 md:tw-tracking-wide tw-font-serif md:tw-text-center lg:tw-text-left tw-text-2xl sm:tw-text-3xl md:tw-text-5xl">
-      Learn about our <br /> services and billing
-      <p class="md:tw-text-lg tw-mr-2 tw-justify-evenly tw-text-sm tw-text-white tw-tracking-normal tw-font-thin tw-ml-1 tw-mt-8 tw-font-mono">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, inventore perferendis. Minus commodi obcaecati assumenda, perspiciatis, officiis explicabo ut aperiam rerum delectus facilis odit dicta, veritatis mollitia labore! Repudiandae, dolor?
-      </p>
-      <div class="tw-flex tw-justify-start tw-mt-5">
-        <q-btn outline color="positive" class="tw-py-3 tw-rounded-lg tw-px-5" icon="mail">
-          <a class="tw-ml-2 tw-text-xs tw-pt-0.5 lg:tw-text-sm" href="mailto:bexilcomputer@gmail.com">contact us</a>
-        </q-btn>
-      </div>
-    </div>
-    <div class="tw-w-1/2">
-      <img class="tw-object-cover tw-w-72 sm:tw-w-96 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-96 tw-shadow-inner tw-rounded-full tw-overflow-hidden" src="/img/pexels-drew-williams-3568520.jpg" alt="">
     </div>
   </div>
   <div class="sm:tw-mx-auto tw-italic tw-text-center tw-mt-10 tw--mx-4 tw-text-white tw-text-4xl">
