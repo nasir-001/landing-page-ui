@@ -49,12 +49,36 @@
       </div>
     </div>
   </div>
-  <div class="tw-flex tw-flex-wrap tw-mt-24 tw-mb-4">
+  <div class="tw-flex tw-flex-wrap tw-mt-16 tw-mb-4 tw-mx-24">
     <div class="tw-w-1/2">
-      <img class="tw-object-cover tw-shadow-xl tw-w-72 sm:tw-w-96 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-96 hover:tw-shadow-2xl tw-rounded-full tw-overflow-hidden" src="/img/pexels-drew-williams-3568520.jpg" alt="">
+      <img class="tw-object-cover tw-w-72 sm:tw-w-96 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-96 tw-shadow-inner tw-rounded-full tw-overflow-hidden" src="/img/pexels-drew-williams-3568520.jpg" alt="">
     </div>
-    <div class="tw-uppercase tw-mx-2 md:tw-mx-0 lg:tw-w-1/2 tw-text-white md:tw-tracking-wide tw-font-serif md:tw-text-center lg:tw-text-left tw-text-2xl sm:tw-text-3xl md:tw-text-5xl">
-      Bexil computer & solutions
+    <div class="tw-uppercase tw-mx-2 md:tw-mx-0 lg:tw-w-1/2 tw-text-green-400 md:tw-tracking-wide tw-font-serif md:tw-text-center lg:tw-text-left tw-text-2xl sm:tw-text-3xl md:tw-text-5xl">
+      Learn about our <br /> services and billing
+      <p class="md:tw-text-lg tw-mr-2 tw-justify-evenly tw-text-sm tw-text-white tw-tracking-normal tw-font-thin tw-ml-1 tw-mt-8 tw-font-mono">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, inventore perferendis. Minus commodi obcaecati assumenda, perspiciatis, officiis explicabo ut aperiam rerum delectus facilis odit dicta, veritatis mollitia labore! Repudiandae, dolor?
+      </p>
+      <div class="tw-flex tw-justify-start tw-mt-5">
+        <q-btn outline color="positive" class="tw-py-3 tw-rounded-lg tw-px-5" icon="mail">
+          <a class="tw-ml-2 tw-text-xs tw-pt-0.5 lg:tw-text-sm" href="mailto:bexilcomputer@gmail.com">contact us</a>
+        </q-btn>
+      </div>
+    </div>
+  </div>
+  <div class="tw-flex tw-flex-wrap tw-mt-16 tw-mb-4 tw-mx-24">
+    <div class="tw-uppercase tw-mx-2 md:tw-mx-0 lg:tw-w-1/2 tw-text-green-400 md:tw-tracking-wide tw-font-serif md:tw-text-center lg:tw-text-left tw-text-2xl sm:tw-text-3xl md:tw-text-5xl">
+      Learn about our <br /> services and billing
+      <p class="md:tw-text-lg tw-mr-2 tw-justify-evenly tw-text-sm tw-text-white tw-tracking-normal tw-font-thin tw-ml-1 tw-mt-8 tw-font-mono">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, inventore perferendis. Minus commodi obcaecati assumenda, perspiciatis, officiis explicabo ut aperiam rerum delectus facilis odit dicta, veritatis mollitia labore! Repudiandae, dolor?
+      </p>
+      <div class="tw-flex tw-justify-start tw-mt-5">
+        <q-btn outline color="positive" class="tw-py-3 tw-rounded-lg tw-px-5" icon="mail">
+          <a class="tw-ml-2 tw-text-xs tw-pt-0.5 lg:tw-text-sm" href="mailto:bexilcomputer@gmail.com">contact us</a>
+        </q-btn>
+      </div>
+    </div>
+    <div class="tw-w-1/2">
+      <img class="tw-object-cover tw-w-72 sm:tw-w-96 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-96 tw-shadow-inner tw-rounded-full tw-overflow-hidden" src="/img/pexels-drew-williams-3568520.jpg" alt="">
     </div>
   </div>
   <div class="sm:tw-mx-auto tw-italic tw-text-center tw-mt-10 tw--mx-4 tw-text-white tw-text-4xl">

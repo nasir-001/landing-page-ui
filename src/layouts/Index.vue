@@ -1,7 +1,6 @@
 <template>
   <top-bar />
   <overview />
-  <projects />
   <app-footer />
 </template>
 
@@ -17,8 +16,7 @@ export default defineComponent({
   components: {
     TopBar,
     Overview,
-    AppFooter,
-    Projects
+    AppFooter
   }
 })
 </script>
