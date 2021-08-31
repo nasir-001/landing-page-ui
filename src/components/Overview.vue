@@ -49,6 +49,25 @@
       </div>
     </div>
   </div>
+  <div>
+    <div class="sm:tw-mx-auto tw-italic tw-text-center tw-mt-10 tw--mx-4 tw-text-white tw-text-4xl">
+      <p>learn what we can provide for you</p>
+    </div>
+    <div class="md:tw-flex tw-justify-center md:tw-flex-wrap tw-mt-12 tw-mb-4 xl:tw-mx-24">
+      <div class="tw-w-64 tw-border tw-mx-4 tw-h-64 tw-rounded-full tw-border-gray-400">
+        <img class="tw-rounded-full tw-w-full tw-h-full" src="/svg/undraw_Travelers_re_y25a.svg" alt="">
+      </div>
+      <div class="tw-w-64 tw-border tw-mx-4 tw-h-64 tw-rounded-full tw-border-gray-400">
+        <img class="tw-rounded-full tw-w-full tw-h-full" src="/svg/undraw_city_driver_re_0x5e.svg" alt="">
+      </div>
+      <div class="tw-w-64 tw-border tw-mx-4 tw-h-64 tw-rounded-full tw-border-gray-400">
+        <img class="tw-rounded-full tw-w-full tw-h-full" src="/svg/undraw_Data_re_80ws.svg" alt="">
+      </div>
+      <div class="tw-w-64 tw-border tw-mx-4 tw-h-64 tw-rounded-full tw-border-gray-400">
+        <img class="tw-rounded-full tw-w-full tw-h-full" src="/svg/undraw_Video_call_re_4p26.svg" alt="">
+      </div>
+    </div>
+  </div>
   <div class="md:tw-flex md:tw-flex-wrap tw-mt-16 tw-mb-4 xl:tw-mx-24">
     <div class="md:tw-w-1/2 tw-mx-3 md:tw-mx-0">
       <img class="tw-object-cover tw-mx-auto md:tw-w-96 hover:tw-opacity-75 tw-opacity-100 tw-h-80 tw-w-full sm:tw-h-96 tw-shadow-inner tw-rounded-2xl md:tw-rounded-full tw-overflow-hidden" src="/img/pexels-drew-williams-3568520.jpg" alt="">
