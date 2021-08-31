@@ -49,22 +49,30 @@
       </div>
     </div>
   </div>
-  <div>
-    <div class="sm:tw-mx-auto tw-italic tw-text-center tw-mt-10 tw--mx-4 tw-text-white tw-text-4xl">
+  <div class="tw-mt-10">
+    <div class="sm:tw-mx-auto tw-italic tw-text-center tw--mx-4 tw-text-green-400 tw-text-4xl">
       <p>learn what we can provide for you</p>
     </div>
     <div class="md:tw-flex tw-justify-center md:tw-flex-wrap tw-mt-12 tw-mb-4 xl:tw-mx-24">
-      <div class="tw-w-64 tw-border tw-mx-4 tw-h-64 tw-rounded-full tw-border-gray-400">
+      <div class="tw-w-64 tw-border tw-mx-4 tw-h-64 tw-rounded-full tw-border-green-400">
         <img class="tw-rounded-full tw-w-full tw-h-full" src="/svg/undraw_Travelers_re_y25a.svg" alt="">
+        <p class="tw-text-center tw-text-2xl tw-font-mono tw-text-green-400 tw-pt-2">transposec</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae quae dicta numquam nihil, doloremque velit amet odio nostrum sint explicabo, nulla officiis eveniet exercitationem nisi commodi asperiores, beatae sit dolorem?</p>
       </div>
-      <div class="tw-w-64 tw-border tw-mx-4 tw-h-64 tw-rounded-full tw-border-gray-400">
-        <img class="tw-rounded-full tw-w-full tw-h-full" src="/svg/undraw_city_driver_re_0x5e.svg" alt="">
+      <div class="tw-w-64 tw-border tw-mx-4 tw-h-64 tw-rounded-full tw-border-green-400">
+        <img class="tw-rounded-full tw-w-full tw-h-full" src="/svg/undraw_Hiring_re_yk5n.svg" alt="">
+        <p class="tw-text-center tw-text-2xl tw-font-mono tw-text-green-400 tw-pt-2">transposec</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae quae dicta numquam nihil, doloremque velit amet odio nostrum sint explicabo, nulla officiis eveniet exercitationem nisi commodi asperiores, beatae sit dolorem?</p>
       </div>
-      <div class="tw-w-64 tw-border tw-mx-4 tw-h-64 tw-rounded-full tw-border-gray-400">
+      <div class="tw-w-64 tw-border tw-mx-4 tw-h-64 tw-rounded-full tw-border-green-400">
         <img class="tw-rounded-full tw-w-full tw-h-full" src="/svg/undraw_Data_re_80ws.svg" alt="">
+        <p class="tw-text-center tw-text-2xl tw-font-mono tw-text-green-400 tw-pt-2">transposec</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae quae dicta numquam nihil, doloremque velit amet odio nostrum sint explicabo, nulla officiis eveniet exercitationem nisi commodi asperiores, beatae sit dolorem?</p>
       </div>
-      <div class="tw-w-64 tw-border tw-mx-4 tw-h-64 tw-rounded-full tw-border-gray-400">
+      <div class="tw-w-64 tw-border tw-mx-4 tw-h-64 tw-rounded-full tw-border-green-400">
         <img class="tw-rounded-full tw-w-full tw-h-full" src="/svg/undraw_Video_call_re_4p26.svg" alt="">
+        <p class="tw-text-center tw-text-2xl tw-font-mono tw-text-green-400 tw-pt-2">transposec</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae quae dicta numquam nihil, doloremque velit amet odio nostrum sint explicabo, nulla officiis eveniet exercitationem nisi commodi asperiores, beatae sit dolorem?</p>
       </div>
     </div>
   </div>
