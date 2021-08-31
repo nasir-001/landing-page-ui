@@ -1,6 +1,6 @@
 <template>
   <div class="md:tw-w-5/6 tw-mx-auto tw-mt-10 md:tw-mt-20">
-    <div class="tw-flex tw-flex-wrap tw-justify-between tw-mx-4">
+    <div class="tw-flex tw-flex-wrap tw-justify-between">
       <div class="tw-uppercase tw-mx-2 md:tw-mx-0 tw-w-3/6 tw-text-white md:tw-tracking-wide tw-font-serif md:tw-text-center lg:tw-text-left tw-text-2xl sm:tw-text-3xl md:tw-text-5xl">
         bexil computer
         <br />
@@ -140,7 +140,7 @@
         Secure-NG
       </div>
       <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
-        Tricycle tax Collections System that offers features, rich user-interfaces 
+        A Tricycle tax Collections System that offers features, rich user-interfaces 
         with intuitive tools to manage tax
          collectors accounts simply. in this system, we provide 
         a tricycle tax collections Let our tax billing and collections software system 
