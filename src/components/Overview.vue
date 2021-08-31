@@ -53,7 +53,7 @@
     <div class="md:tw-w-1/2 tw-mx-3 md:tw-mx-0">
       <img class="tw-object-cover tw-mx-auto md:tw-w-96 hover:tw-opacity-75 tw-opacity-100 tw-h-80 tw-w-full sm:tw-h-96 tw-shadow-inner tw-rounded-2xl md:tw-rounded-full tw-overflow-hidden" src="/img/pexels-drew-williams-3568520.jpg" alt="">
     </div>
-    <div class="tw-uppercase tw-mx-2 tw-mt-3 md:tw-mt-0 md:tw-mx-0 md:tw-w-1/2 tw-text-green-400 md:tw-tracking-wide tw-font-serif md:tw-text-center lg:tw-text-left tw-text-2xl sm:tw-text-3xl md:tw-text-5xl">
+    <div class="tw-uppercase tw-mx-2 tw-mt-3 md:tw-mt-0 md:tw-mx-0 md:tw-w-1/2 tw-text-green-400 md:tw-tracking-wide tw-font-serif tw-text-2xl sm:tw-text-3xl md:tw-text-4xl">
       Learn about our <br /> services and billing
       <p class="md:tw-text-lg tw-mx-auto tw-mr-2 tw-justify-evenly tw-text-sm tw-text-white tw-tracking-normal tw-font-thin tw-ml-1 sm:tw-mt-4 tw-font-mono">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, inventore perferendis. Minus commodi obcaecati assumenda, perspiciatis, officiis explicabo ut aperiam rerum delectus facilis odit dicta, veritatis mollitia labore! Repudiandae, dolor?
