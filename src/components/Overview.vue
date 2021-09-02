@@ -1,10 +1,10 @@
 <template>
   <div class="md:tw-w-5/6 tw-mx-auto tw-mt-10 md:tw-mt-20">
     <div class="tw-flex tw-flex-wrap tw-justify-between">
-      <div class="tw-uppercase tw-mx-2 md:tw-mx-0 tw-w-3/6 tw-text-white md:tw-tracking-wide tw-font-serif md:tw-text-center lg:tw-text-left tw-text-2xl sm:tw-text-3xl md:tw-text-5xl">
+      <div class="tw-uppercase tw-mx-2 md:tw-mx-0 md:tw-w-3/6 tw-text-white md:tw-tracking-wide tw-font-serif md:tw-text-center lg:tw-text-left tw-text-2xl sm:tw-text-3xl md:tw-text-5xl">
         bexil computer
         <br />
-        <div class="tw-font-thin tw-mt-2 tw-text-3xl tw-tracking-wider sm:tw-text-4xl md:tw-text-5xl tw-font-sans tw-text-green-400">
+        <div class="tw-font-thin tw-mt-2 tw-text-3xl tw-tracking-wider sm:tw-text-4xl md:tw-text-5xl tw-font-sans text-green">
           & solutions LTD
         </div> 
         <p class="md:tw-text-lg tw-mr-2 tw-text-sm tw-tracking-normal tw-font-thin tw-ml-1 tw-mt-8 tw-font-mono">
@@ -16,7 +16,7 @@
           </q-btn>
         </div>
       </div>
-      <div class="tw-mx-auto">
+      <div class="tw-mx-auto tw-mt-4">
         <div>
           <img class="tw-object-cover tw-shadow-xl tw-w-72 sm:tw-w-56 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG-0565.JPG" alt="">
           <div class="tw-text-center tw-text-white tw-font-serif tw-text-lg">
@@ -55,37 +55,37 @@
     </div>
     <div class="tw-flex tw-justify-center tw-mx-auto tw-flex-wrap tw-mt-12 tw-mb-4 md:tw-mx-8 xl:tw-mx-24">
       <div class="xl:tw-w-1/4 tw-mt-10 sm:tw-mt-0 lg:tw-w-1/3 sm:tw-w-1/2 tw-w-full">
-        <div class="sm:tw-w-64 sm:tw-border tw-mx-4 sm:tw-h-64 sm:tw-rounded-full sm:tw-border-green-400">
+        <div class="sm:tw-w-64 sm:tw-border tw-mx-4 sm:tw-h-64 sm:tw-rounded-full">
           <img class="sm:tw-rounded-full tw-w-full tw-h-full" src="/svg/undraw_Travelers_re_y25a.svg" alt="">
         </div>
-        <p class="tw-text-center tw-text-2xl tw-font-mono tw-text-green-400 tw-pt-5 sm:tw-pt-2">transposec</p>
+        <p class="tw-text-center tw-text-2xl tw-font-mono text-green tw-pt-5 sm:tw-pt-2">transposec</p>
         <div class="tw-text-sm tw-font-mono tw-text-white tw-pt-2 tw-mx-4 sm:tw-pl-7">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis fuga, at sequi nihil ad, ipsa sed, veritatis ut ducimus natus deleniti maxime!
         </div>
       </div>
       <div class="xl:tw-w-1/4 tw-mt-10 sm:tw-mt-0 lg:tw-w-1/3 sm:tw-w-1/2 tw-w-full">
-        <div class="sm:tw-w-64 sm:tw-border tw-mx-4 sm:tw-h-64 sm:tw-rounded-full sm:tw-border-green-400">
+        <div class="sm:tw-w-64 sm:tw-border tw-mx-4 sm:tw-h-64 sm:tw-rounded-full">
           <img class="sm:tw-rounded-full tw-w-full tw-h-full" src="/svg/undraw_Hiring_re_yk5n.svg" alt="">
         </div>        
-        <p class="tw-text-center tw-text-2xl tw-font-mono tw-text-green-400 tw-pt-5 sm:tw-pt-2">indegene</p>
+        <p class="tw-text-center tw-text-2xl tw-font-mono text-green tw-pt-5 sm:tw-pt-2">indegene</p>
         <div class="tw-text-sm tw-font-mono tw-text-white tw-pt-2 tw-mx-4 sm:tw-pl-7">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis fuga, at sequi nihil ad, ipsa sed, veritatis ut ducimus natus deleniti maxime!
         </div>
       </div>
       <div class="xl:tw-w-1/4 tw-mt-10 sm:tw-mt-0 lg:tw-w-1/3 sm:tw-w-1/2 tw-w-full">
-        <div class="sm:tw-w-64 sm:tw-border tw-mx-4 sm:tw-h-64 sm:tw-rounded-full sm:tw-border-green-400">
+        <div class="sm:tw-w-64 sm:tw-border tw-mx-4 sm:tw-h-64 sm:tw-rounded-full">
           <img class="sm:tw-rounded-full tw-w-full tw-h-full" src="/svg/undraw_Data_re_80ws.svg" alt="">
         </div>
-        <p class="tw-text-center tw-text-2xl tw-font-mono tw-text-green-400 tw-pt-5 sm:tw-pt-2">data optimisation</p>
+        <p class="tw-text-center tw-text-2xl tw-font-mono text-green tw-pt-5 sm:tw-pt-2">data optimisation</p>
         <div class="tw-text-sm tw-font-mono tw-text-white tw-pt-2 tw-mx-4 sm:tw-pl-7">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis fuga, at sequi nihil ad, ipsa sed, veritatis ut ducimus natus deleniti maxime!
         </div>
       </div>
       <div class="xl:tw-w-1/4 tw-mt-10 sm:tw-mt-0 lg:tw-w-1/3 sm:tw-w-1/2 tw-w-full">
-        <div class="sm:tw-w-64 sm:tw-border tw-mx-4 sm:tw-h-64 sm:tw-rounded-full sm:tw-border-green-400">
+        <div class="sm:tw-w-64 sm:tw-border tw-mx-4 sm:tw-h-64 sm:tw-rounded-full">
           <img class="sm:tw-rounded-full tw-w-full tw-h-full" src="/svg/undraw_Video_call_re_4p26.svg" alt="">
         </div>
-        <p class="tw-text-center tw-text-2xl tw-font-mono tw-text-green-400 tw-pt-5 sm:tw-pt-2">facial recognition</p>
+        <p class="tw-text-center tw-text-2xl tw-font-mono text-green tw-pt-5 sm:tw-pt-2">facial recognition</p>
         <div class="tw-text-sm tw-font-mono tw-text-white tw-pt-2 tw-mx-4 sm:tw-pl-7">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis fuga, at sequi nihil ad, ipsa sed, veritatis ut ducimus natus deleniti maxime!
         </div>
@@ -96,7 +96,7 @@
     <div class="md:tw-w-1/2 tw-mx-3 md:tw-mx-0">
       <img class="tw-object-cover tw-mx-auto md:tw-w-96 hover:tw-opacity-75 tw-opacity-100 tw-h-80 tw-w-full sm:tw-h-96 tw-shadow-inner tw-rounded-2xl md:tw-rounded-full tw-overflow-hidden" src="/img/pexels-drew-williams-3568520.jpg" alt="">
     </div>
-    <div class="tw-uppercase tw-mx-2 tw-mt-3 md:tw-mt-0 md:tw-mx-0 md:tw-w-1/2 tw-text-green-400 md:tw-tracking-wide tw-font-serif tw-text-2xl sm:tw-text-3xl md:tw-text-4xl">
+    <div class="tw-uppercase tw-mx-2 tw-mt-3 md:tw-mt-0 md:tw-mx-0 md:tw-w-1/2 text-green md:tw-tracking-wide tw-font-serif tw-text-2xl sm:tw-text-3xl md:tw-text-4xl">
       Learn about our <br /> services and billing
       <p class="md:tw-text-lg tw-mx-auto tw-mr-2 tw-justify-evenly tw-text-sm tw-text-white tw-tracking-normal tw-font-thin tw-ml-1 sm:tw-mt-4 tw-font-mono">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, inventore perferendis. Minus commodi obcaecati assumenda, perspiciatis, officiis explicabo ut aperiam rerum delectus facilis odit dicta, veritatis mollitia labore! Repudiandae, dolor?
@@ -109,11 +109,11 @@
     </div>
   </div>
   <div class="sm:tw-mx-auto tw-italic tw-text-center tw-mt-10 tw--mx-4 tw-text-white tw-text-4xl">
-    <span class="">our tested</span> <span class="tw-not-italic tw-text-green-400 tw-font-thin">and</span> <span>trusted</span> <br /> services
+    <span class=""><span class="tw-not-italic text-green tw-font-thin">our</span> tested</span> <span class="tw-not-italic text-green tw-font-thin">and</span> <span>trusted</span> <br /> services
   </div>
   <div class="tw-flex tw-flex-wrap tw-mx-4 sm:tw-mx-20 tw-justify-start tw-mt-8">
     <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full">
-      <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono">
+      <div class="tw-text-center text-green tw-text-xl tw-font-semibold tw-font-mono">
         Software Development
       </div>
       <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
@@ -125,7 +125,7 @@
       </div>
     </div>
     <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full">
-      <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono">
+      <div class="tw-text-center text-green tw-text-xl tw-font-semibold tw-font-mono">
         Facial Recognition Integration
       </div>
       <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
@@ -136,7 +136,7 @@
       </div>
     </div>
     <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full">
-      <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono">
+      <div class="tw-text-center text-green tw-text-xl tw-font-semibold tw-font-mono">
         Secure-NG
       </div>
       <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
@@ -150,7 +150,7 @@
   </div>
   <div class="tw-flex tw-flex-wrap tw-mx-4 sm:tw-mx-20 tw-justify-start tw-mt-2">
     <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full">
-      <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono">
+      <div class="tw-text-center text-green tw-text-xl tw-font-semibold tw-font-mono">
         Transport Manifest
       </div>
       <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
@@ -162,7 +162,7 @@
       </div>
     </div>
     <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full">
-      <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono">
+      <div class="tw-text-center text-green tw-text-xl tw-font-semibold tw-font-mono">
         Data Optimisation
       </div>
       <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
@@ -174,7 +174,7 @@
       </div>
     </div>
     <div class="sm:tw-w-1/2 tw-w-full lg:tw-w-1/3 tw-rounded-full">
-      <div class="tw-text-center tw-text-green-400 tw-text-xl tw-font-semibold tw-font-mono">
+      <div class="tw-text-center text-green tw-text-xl tw-font-semibold tw-font-mono">
         CCTV Installation and Management
       </div>
       <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
