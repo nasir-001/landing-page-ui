@@ -1,7 +1,7 @@
 <template>
-  <div class="md:tw-w-5/6 tw-mx-auto tw-mt-10 md:tw-mt-20">
+  <div class="md:tw-w-5/6 tw-w-full tw-mx-auto tw-mt-10 md:tw-mt-20">
     <div class="tw-flex tw-flex-wrap tw-justify-between">
-      <div class="tw-uppercase tw-mx-2 md:tw-mx-0 md:tw-w-3/6 tw-text-white md:tw-tracking-wide tw-font-serif md:tw-text-center lg:tw-text-left tw-text-2xl sm:tw-text-3xl md:tw-text-5xl">
+      <div class="tw-uppercase tw-mx-2 md:tw-mx-0 tw-w-full lg:tw-w-1/2 tw-text-white md:tw-tracking-wide tw-font-serif md:tw-text-center lg:tw-text-left tw-text-2xl sm:tw-text-3xl md:tw-text-5xl">
         bexil computer
         <br />
         <div class="tw-font-thin tw-mt-2 tw-text-3xl tw-tracking-wider sm:tw-text-4xl md:tw-text-5xl tw-font-sans text-green">
@@ -16,9 +16,9 @@
           </q-btn>
         </div>
       </div>
-      <div class="tw-mx-auto tw-mt-4">
+      <div class="tw-mx-auto tw-mt-10 lg:tw-w-1/2 lg:tw-mt-0">
         <div>
-          <img class="tw-object-cover tw-shadow-xl tw-w-72 sm:tw-w-56 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG-0565.JPG" alt="">
+          <img class="tw-object-cover tw-shadow-xl tw-w-72 sm:tw-w-44 xl:tw-w-56 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG-0565.JPG" alt="">
           <div class="tw-text-center tw-text-white tw-font-serif tw-text-lg">
             C.E.O
           </div>
@@ -26,9 +26,9 @@
             Yusuf Hayatuddeen
           </div>
         </div>
-        <div class="sm:tw-flex sm:tw-flex-wrap tw-mx-auto tw-justify-start tw-mt-4">
-          <div class="sm:tw-mr-10">
-            <img class="tw-object-cover tw-shadow-xl tw-w-72 sm:tw-w-56 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG-1912_33.jpg" alt="">
+        <div class="sm:tw-flex sm:tw-flex-wrap tw-mx-auto tw-justify-start lg:tw-justify-between tw-mt-4">
+          <div class="sm:tw-mr-10 xl:tw-mx-8">
+            <img class="tw-object-cover tw-shadow-xl tw-w-72 sm:tw-w-44 xl:tw-w-56 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG-1912_33.jpg" alt="">
             <div class="tw-text-center tw-text-white tw-font-serif tw-text-lg">
               C.T.O
             </div>
@@ -36,8 +36,8 @@
               Dahir. M. Dahir
             </div>
           </div>
-          <div class="sm:tw-ml-10 tw-mt-4 sm:tw-mt-0">
-            <img class="tw-object-cover tw-shadow-xl tw-w-72 sm:tw-w-56 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG_0035.jpg" alt="">
+          <div class="sm:tw-ml-10 tw-mt-4 sm:tw-mt-0 xl:tw-mx-8">
+            <img class="tw-object-cover tw-shadow-xl tw-w-72 sm:tw-w-44 xl:tw-w-56 tw-mx-auto hover:tw-opacity-75 tw-opacity-100 tw-h-44 hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/IMG_0035.jpg" alt="">
             <div class="tw-text-center tw-text-white tw-font-serif tw-text-lg">
               C.O.O
             </div>
@@ -50,43 +50,43 @@
     </div>
   </div>
   <div class="tw-mt-10">
-    <div class="sm:tw-mx-auto tw-italic tw-text-center tw--mx-4 tw-text-white tw-text-4xl">
+    <div class="sm:tw-mx-auto text-green tw-italic tw-text-center tw--mx-4 tw-text-white tw-text-4xl">
       <p>learn what we can provide for you</p>
     </div>
-    <div class="tw-flex tw-justify-center tw-mx-auto tw-flex-wrap tw-mt-12 tw-mb-4 md:tw-mx-8 xl:tw-mx-24">
+    <div class="tw-flex tw-flex-wrap tw-mt-12 tw-mb-4 md:tw-mx-8 xl:tw-mx-24">
       <div class="xl:tw-w-1/4 tw-mt-10 sm:tw-mt-0 lg:tw-w-1/3 sm:tw-w-1/2 tw-w-full">
-        <div class="sm:tw-w-64 sm:tw-border tw-mx-4 sm:tw-h-64 sm:tw-rounded-full">
-          <img class="sm:tw-rounded-full tw-w-full tw-h-full" src="/svg/undraw_Travelers_re_y25a.svg" alt="">
+        <div class="sm:tw-w-64 sm:tw-border sm:tw-h-64 tw-mx-auto sm:tw-rounded-full">
+          <img class="sm:tw-rounded-full tw-w-full tw-h-full tw-mx-auto" src="/svg/undraw_Travelers_re_y25a.svg" alt="">
         </div>
         <p class="tw-text-center tw-text-2xl tw-font-mono text-green tw-pt-5 sm:tw-pt-2">transposec</p>
-        <div class="tw-text-sm tw-font-mono tw-text-white tw-pt-2 tw-mx-4 sm:tw-pl-7">
+        <div class="tw-text-sm tw-font-mono tw-text-white tw-pt-2 tw-mx-4 sm:tw-pl-7 md:tw-text-lg">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis fuga, at sequi nihil ad, ipsa sed, veritatis ut ducimus natus deleniti maxime!
         </div>
       </div>
       <div class="xl:tw-w-1/4 tw-mt-10 sm:tw-mt-0 lg:tw-w-1/3 sm:tw-w-1/2 tw-w-full">
-        <div class="sm:tw-w-64 sm:tw-border tw-mx-4 sm:tw-h-64 sm:tw-rounded-full">
-          <img class="sm:tw-rounded-full tw-w-full tw-h-full" src="/svg/undraw_Hiring_re_yk5n.svg" alt="">
+        <div class="sm:tw-w-64 sm:tw-border sm:tw-h-64 tw-mx-auto sm:tw-rounded-full">
+          <img class="sm:tw-rounded-full tw-w-full tw-h-full tw-mx-auto" src="/svg/undraw_Hiring_re_yk5n.svg" alt="">
         </div>        
         <p class="tw-text-center tw-text-2xl tw-font-mono text-green tw-pt-5 sm:tw-pt-2">indegene</p>
-        <div class="tw-text-sm tw-font-mono tw-text-white tw-pt-2 tw-mx-4 sm:tw-pl-7">
+        <div class="tw-text-sm tw-font-mono tw-text-white tw-pt-2 tw-mx-4 sm:tw-pl-7 md:tw-text-lg">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis fuga, at sequi nihil ad, ipsa sed, veritatis ut ducimus natus deleniti maxime!
         </div>
       </div>
       <div class="xl:tw-w-1/4 tw-mt-10 sm:tw-mt-0 lg:tw-w-1/3 sm:tw-w-1/2 tw-w-full">
-        <div class="sm:tw-w-64 sm:tw-border tw-mx-4 sm:tw-h-64 sm:tw-rounded-full">
-          <img class="sm:tw-rounded-full tw-w-full tw-h-full" src="/svg/undraw_Data_re_80ws.svg" alt="">
+        <div class="sm:tw-w-64 sm:tw-border sm:tw-h-64 tw-mx-auto sm:tw-rounded-full">
+          <img class="sm:tw-rounded-full tw-w-full tw-h-full tw-mx-auto" src="/svg/undraw_Data_re_80ws.svg" alt="">
         </div>
         <p class="tw-text-center tw-text-2xl tw-font-mono text-green tw-pt-5 sm:tw-pt-2">data optimisation</p>
-        <div class="tw-text-sm tw-font-mono tw-text-white tw-pt-2 tw-mx-4 sm:tw-pl-7">
+        <div class="tw-text-sm tw-font-mono tw-text-white tw-pt-2 tw-mx-4 sm:tw-pl-7 md:tw-text-lg">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis fuga, at sequi nihil ad, ipsa sed, veritatis ut ducimus natus deleniti maxime!
         </div>
       </div>
       <div class="xl:tw-w-1/4 tw-mt-10 sm:tw-mt-0 lg:tw-w-1/3 sm:tw-w-1/2 tw-w-full">
-        <div class="sm:tw-w-64 sm:tw-border tw-mx-4 sm:tw-h-64 sm:tw-rounded-full">
-          <img class="sm:tw-rounded-full tw-w-full tw-h-full" src="/svg/undraw_Video_call_re_4p26.svg" alt="">
+        <div class="sm:tw-w-64 sm:tw-border sm:tw-h-64 tw-mx-auto sm:tw-rounded-full">
+          <img class="sm:tw-rounded-full tw-w-full tw-h-full tw-mx-auto" src="/svg/undraw_Video_call_re_4p26.svg" alt="">
         </div>
         <p class="tw-text-center tw-text-2xl tw-font-mono text-green tw-pt-5 sm:tw-pt-2">facial recognition</p>
-        <div class="tw-text-sm tw-font-mono tw-text-white tw-pt-2 tw-mx-4 sm:tw-pl-7">
+        <div class="tw-text-sm tw-font-mono tw-text-white tw-pt-2 tw-mx-4 sm:tw-pl-7 md:tw-text-lg">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis fuga, at sequi nihil ad, ipsa sed, veritatis ut ducimus natus deleniti maxime!
         </div>
       </div>
@@ -116,7 +116,7 @@
       <div class="tw-text-center text-green tw-text-xl tw-font-semibold tw-font-mono">
         Software Development
       </div>
-      <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
+      <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2 md:tw-text-lg">
         Software Development, or Computer Software Developer, is responsible 
         for using our knowledge of programming languages to design software programs. 
         our duties include meeting with clients to determine their software needs, 
@@ -128,7 +128,7 @@
       <div class="tw-text-center text-green tw-text-xl tw-font-semibold tw-font-mono">
         Facial Recognition Integration
       </div>
-      <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
+      <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2 md:tw-text-lg">
         Facial recognition software is primarily used as a protective security 
         measure and for verifying personnel activities, such as attendance, 
         computer access or traffic in secure work environments. Facial recognition 
@@ -139,7 +139,7 @@
       <div class="tw-text-center text-green tw-text-xl tw-font-semibold tw-font-mono">
         Secure-NG
       </div>
-      <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
+      <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2 md:tw-text-lg">
         A Tricycle tax Collections System that offers features, rich user-interfaces 
         with intuitive tools to manage tax
          collectors accounts simply. in this system, we provide 
@@ -153,7 +153,7 @@
       <div class="tw-text-center text-green tw-text-xl tw-font-semibold tw-font-mono">
         Transport Manifest
       </div>
-      <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
+      <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2 md:tw-text-lg">
         A manifest lists the imformation of the passengers, the drivers and the 
         vehicle as well the trip information, including the passengers/drivers
         Address, Next of Kin. Transport Manifet uses NIN to pull information of
@@ -165,7 +165,7 @@
       <div class="tw-text-center text-green tw-text-xl tw-font-semibold tw-font-mono">
         Data Optimisation
       </div>
-      <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
+      <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2 md:tw-text-lg">
         Data Optimization is a process that prepares the logical schema from the 
         data view schema. It is the counterpart of data de-optimization.  
         It is an important aspect in database management in particular 
@@ -177,7 +177,7 @@
       <div class="tw-text-center text-green tw-text-xl tw-font-semibold tw-font-mono">
         CCTV Installation and Management
       </div>
-      <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2">
+      <div class="tw-text-sm tw-text-white tw-font-mono tw-px-2 md:tw-text-lg">
         CCTV, or closed-circuit television, is a system that allows you to keep 
         an eye on what’s going on in and around your business. Cameras and monitors 
         enable you to view events live, and recorders archive footage for later reference. 
